@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Su Farmacia</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+
+    <!-- string para crear usuario -->
+    <string name="mostrar_usuario">Dirección de correo electrónico</string>
+    <string name="mostrar_pass">Contraseña</string>
+
+    <string name="accion_conectar">Iniciar Sesión</string>
+    <string name="accion_registrar">Registrarse</string>
+    <string name="exito_registro">Usuario registrado con éxito!</string>
+    <string name="volver_conectar">Ir a Conectar</string>
+
+    <string name="error_usuario">Este usuario no es válido</string>
+    <string name="error_pass_corta">La contraseña es demasiado corta</string>
+    <string name="error_pass">La contraseña es incorrecta</string>
+    <string name="error_campo_obligatorio">Este campo es obligatorio</string>
+    <string name="error_usuario_existe">Ese usuario ya existe</string>
+    <string name="error_conexion">El usuario o la contraseña son incorrectos</string>
+
+    <string name="cambiar_a_registrar">¿Aún no te has registrado? Click aquí</string>
+    <string name="cambiar_a_conectar">¿Ya estás registrado? Click Aquí</string>
+
+    <string name="vista_recycler">Lista de Productos</string>
+    <string name="añadir_cesta">Añadir a cesta</string>
+
+    <string name="menu_mas">Más</string>
+    <string name="mas_lista_contactos">Lista de Contactos</string>
+    <string name="mas_aviso_legal">Aviso Legal</string>
+    <string name="mas_preguntas_frecuentes">Preguntas Frecuentes</string>
+    <string name="mas_ayuda">Ayuda</string>
+    <string name="mas_consultar_pedido">Consultar Pedido</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- imagenes de productos -->
+    <string name="imagen_producto">Imagen del producto</string>
+</resources>

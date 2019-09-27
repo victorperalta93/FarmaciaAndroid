@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/lista_contactos"
+        android:title="@string/mas_lista_contactos"/>
+
+    <item android:id="@+id/preguntas_frecuentes"
+        android:title="@string/mas_preguntas_frecuentes"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/aviso_legal"
+        android:title="@string/mas_aviso_legal"/>
+
+    <item android:id="@+id/ayuda"
+        android:title="@string/mas_ayuda"/>
+
+</menu>
